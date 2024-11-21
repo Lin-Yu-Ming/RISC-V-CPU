@@ -3,11 +3,14 @@
 
 #Spec
 
-
 Implement the 49 instructions as listed.
+
 General register File size: 32x32-bit
+
 Floating point register File size: 32x32-bit
+
 Instruction memory size: 16Kx32-bit
+
 Data memory size: 16Kx32-bit
 
 
